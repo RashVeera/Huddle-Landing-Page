@@ -1,0 +1,1 @@
+A landing page which contains SVG's and curved endings created using either SVG's or with the help of border-radius functionality
